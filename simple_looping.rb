@@ -20,7 +20,8 @@ def while_iterator(number_of_times)
   # hint: user a counter to tell the while loop when to stop!
   counter = 0
   while number_of_times < 7
-  
+    number_of_times += 1
+    puts ""
   
 end
 
