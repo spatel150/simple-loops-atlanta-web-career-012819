@@ -5,7 +5,7 @@ def loop_iterator(number_of_times)
   loop do 
     counter += 1
     puts "Welcome to Flatiron School's Web Development Course!"
-    break if counter >= number_of_times
+    break if counter >= 7
   end
 end
 
@@ -29,7 +29,9 @@ def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
   # hint: use a counter to tell the until loop when to stop!
   counter = 0
-  until counter == 
+  until counter == 7
+  puts "Welcome to Flatiron School's Web Development Course!"
+  c
 
 end
 
